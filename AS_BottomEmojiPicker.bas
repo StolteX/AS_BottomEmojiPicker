@@ -11,12 +11,12 @@ V1.00
 V1.01
 	-Add HidePicker
 V1.02
-	-Add Event: EmojiSelected (Emoji As String)
-	-Add Event: Opened
-	-Add Event: Closed
-	-Add Event: Open
-	-Add Event: Close
-	-Add Event: VisibleBodyHeightChanged (height as double)
+	-New Event: EmojiSelected (Emoji As String)
+	-New Event: Opened
+	-New Event: Closed
+	-New Event: Open
+	-New Event: Close
+	-New Event: VisibleBodyHeightChanged (height as double)
 #End If
 
 #Event: EmojiSelected (Emoji As String)
